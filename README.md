@@ -1,2 +1,5 @@
 # xfce-graybird-modified
-A beautiful theme for XFCE4
+Replace gtkrc in `/usr/share/themes/Greybird-modified`
+
+# Preview
+
