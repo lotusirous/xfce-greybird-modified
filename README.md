@@ -1,4 +1,7 @@
 # xfce-graybird-modified
+A modified theme for XFCE Graybird
+
+## Usage
 Replace gtkrc in `/usr/share/themes/Greybird-modified`
 
 # Preview
