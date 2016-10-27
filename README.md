@@ -1,4 +1,4 @@
-# xfce-graybird-modified
+# xfce-greybird-modified
 A modified theme for XFCE Graybird
 
 ## Usage
