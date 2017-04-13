@@ -7,7 +7,7 @@ Replace gtkrc in `/usr/share/themes/Greybird-modified`
 # Preview
 
 
-![alt tag](https://raw.githubusercontent.com/lotusirous/Greybird-arc-themes/master/Screenshot_2016-11-02_01-14-23.png)
+![alt tag](https://raw.githubusercontent.com/lotusirous/Greybird-arc/master/Screenshot_2017-04-13_12-47-19.png)
 
-## Rounded button
-![alt tag](https://raw.githubusercontent.com/lotusirous/Greybird-arc-themes/master/Screenshot_2016-11-02_01-15-43.png)
+## Colorful close-miniminzed button
+![alt tag](https://raw.githubusercontent.com/lotusirous/Greybird-arc/master/Screenshot_2017-04-13_12-47-41.png)
