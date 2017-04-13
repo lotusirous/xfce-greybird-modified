@@ -1,5 +1,5 @@
-# Greybird Arc theme for Xubuntu
-An arc theme for Xubuntu Greybird.
+# Greybird Arc Theme
+An arc theme for XFCE4 Greybird.
 
 ## Usage
 Replace gtkrc in `/usr/share/themes/Greybird-modified`
